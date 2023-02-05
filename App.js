@@ -5,8 +5,8 @@
     //Third one is what you put inside the tag
     // const heading2 = React.createElement("h2",{
 
-    // },"Namastey Sarvesh");
-    
+    // },"Namastey shishir");
+    HI 
 
     const heading3 = React.createElement("h3",{},"HEADING 3");
     const heading4 = React.createElement("h3",{},"HEADING 4");
